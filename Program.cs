@@ -28,6 +28,7 @@ namespace ClassMetotDemo
             Console.WriteLine("1-Müşterileri listele");
             Console.WriteLine("1-Müşterileri listeden sil");
             Console.WriteLine("----------------------------------------------------");
+
             Console.Write("Seçim: ");
             int secim=Convert.ToInt32(Console.ReadLine());
             
